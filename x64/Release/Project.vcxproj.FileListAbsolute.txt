@@ -1,0 +1,5 @@
+C:\Users\azuog\Documents\EUL\5th semester\COMP337 DATABASE MANAGEMENT SYSTEMS\Project\x64\Release\Project.vcxproj.AssemblyReference.cache
+C:\Users\azuog\Documents\EUL\5th semester\COMP337 DATABASE MANAGEMENT SYSTEMS\Project\x64\Release\Project.login.resources
+C:\Users\azuog\Documents\EUL\5th semester\COMP337 DATABASE MANAGEMENT SYSTEMS\Project\x64\Release\Project.vcxproj.GenerateResource.cache
+C:\Users\azuog\Documents\EUL\5th semester\COMP337 DATABASE MANAGEMENT SYSTEMS\Project\x64\Release\Project.exe
+C:\Users\azuog\Documents\EUL\5th semester\COMP337 DATABASE MANAGEMENT SYSTEMS\Project\x64\Release\Project.student.resources

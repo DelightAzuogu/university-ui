@@ -1,0 +1,101 @@
+  Project.AddCourse.resources - Embedded, ContainedInManifestFile, 
+  Project.changePassword.resources - Embedded, ContainedInManifestFile, 
+  Project.coordAddStudent.resources - Embedded, ContainedInManifestFile, 
+  Project.coordinator.resources - Embedded, ContainedInManifestFile, 
+  Project.CordAddInstructor.resources - Embedded, ContainedInManifestFile, 
+  Project.cordCourse.resources - Embedded, ContainedInManifestFile, 
+  Project.cordInstructor.resources - Embedded, ContainedInManifestFile, 
+  Project.cordStudent.resources - Embedded, ContainedInManifestFile, 
+  Project.Course1.resources - Embedded, ContainedInManifestFile, 
+  Project.iChangePassword.resources - Embedded, ContainedInManifestFile, 
+  Project.iCourse.resources - Embedded, ContainedInManifestFile, 
+  Project.instructor.resources - Embedded, ContainedInManifestFile, 
+  Project.iTime.resources - Embedded, ContainedInManifestFile, 
+  Project.iUpdateDetails.resources - Embedded, ContainedInManifestFile, 
+  Project.login.resources - Embedded, ContainedInManifestFile, 
+  Project.studentPage.resources - Embedded, ContainedInManifestFile, 
+  Project.summerSemester.resources - Embedded, ContainedInManifestFile, 
+  Project.time.resources - Embedded, ContainedInManifestFile, 
+  Project.updateDetails.resources - Embedded, ContainedInManifestFile, 
+ImageRuntimeVersion: v4.0.30319
+Assembly Project, Version=0.0.*, Culture=Invariant Language (Invariant Country): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.DirectoryServices, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=None, flags=None
+Assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=None, flags=None
+Assembly System.Messaging, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=None, flags=None
+Assembly System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Class Project.iChangePassword: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(std.basic_string<char\,std::char_traits<char>\,std::allocator<char> >*): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class Project.iTime: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(std.basic_string<char\,std::char_traits<char>\,std::allocator<char> >*, Int32, std.basic_string<char\,std::char_traits<char>\,std::allocator<char> >*, SByte**, SByte**): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class Project.iUpdateDetails: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(std.basic_string<char\,std::char_traits<char>\,std::allocator<char> >*): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class Project.iCourse: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(SByte*, Int32, std.basic_string<char\,std::char_traits<char>\,std::allocator<char> >*): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class Project.instructor: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(System.Windows.Forms.Form, std.basic_string<char\,std::char_traits<char>\,std::allocator<char> >*, Int32, System.String): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class Project.summerSemester: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(std.basic_string<char\,std::char_traits<char>\,std::allocator<char> >*): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class Project.cordAddStudent: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(std.basic_string<char\,std::char_traits<char>\,std::allocator<char> >*): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class Project.cordStudent: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(std.basic_string<char\,std::char_traits<char>\,std::allocator<char> >*): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class Project.AddCourse: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(std.basic_string<char\,std::char_traits<char>\,std::allocator<char> >*, Int32): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(std.basic_string<char\,std::char_traits<char>\,std::allocator<char> >*): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class Project.cordCourse: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(std.basic_string<char\,std::char_traits<char>\,std::allocator<char> >*): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class Project.CordAddInstructor: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(std.basic_string<char\,std::char_traits<char>\,std::allocator<char> >*): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class Project.cordInstructor: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(std.basic_string<char\,std::char_traits<char>\,std::allocator<char> >*, Int32, std.basic_string<char\,std::char_traits<char>\,std::allocator<char> >*): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class Project.coordinator: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(System.Windows.Forms.Form, std.basic_string<char\,std::char_traits<char>\,std::allocator<char> >*, Int32, System.String): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class Project.Course: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(SByte*, Int32, System.String, SByte*): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class Project.updateDetails: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(SByte*): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class Project.time: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(SByte*, Int32, System.String, SByte**, SByte**): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class Project.changePassword: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(SByte*): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class Project.studentPage: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(Int32, SByte*, System.String, System.Windows.Forms.Form): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    Int32 year : Public
+Class Project.login: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(Int32, System.String): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    Int32 year : Public
+    System.String semester : Public
